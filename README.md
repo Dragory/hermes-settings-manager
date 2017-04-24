@@ -1,0 +1,1 @@
+Settings manager plugin for [hermes](https://github.com/dragory/hermes)
